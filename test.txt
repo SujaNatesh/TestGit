@@ -1,1 +1,7 @@
-This is my first text file
+This is my first text file.
+
+This file is modified after the first commit to github.
+
+Stay tuned to start using github.
+
+Excited!!!
